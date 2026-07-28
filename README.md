@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with breaking into a cloud security engineer / cloud security analyst role — advice on portfolio projects, certs that matter, and interview prep welcome
 - 💬 Ask me about SOC operations, incident response, phishing analysis, or how I'm self-studying my way from on-prem security into cloud
 - ⚡ Fun fact: my background is actually in public health (MPH) — I came into cybersecurity from a completely different field, which shapes how I think about risk and human behavior in security incidents
-🗺️ Roadmap
+- 🗺️ Roadmap
  CompTIA CySA+ — in progress
  Cloud security foundations (AWS CLI, CloudTrail, IAM, GuardDuty)
  AWS cloud security certification (targeting after CySA+)
  Build out a cloud security portfolio (see Pinned Projects below)
  Transition into a cloud security analyst / engineer role
-📌 Pinned Projects
+- 📌 Pinned Projects
 IAM Least-Privilege Access Reviewer — a Python (boto3) script that audits AWS IAM policies and roles for overly permissive access and flags risk, built on real-world access management experience from SOC work.
 Terraform Secure Landing Zone — an Infrastructure-as-Code baseline that enforces security guardrails from the start (no public S3 buckets, mandatory encryption, restricted security groups), applying proactive security-by-design thinking to cloud infrastructure.
+
